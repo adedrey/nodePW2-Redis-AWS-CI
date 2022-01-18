@@ -1,2 +1,6 @@
 # AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+REDIS
+PW2
+SCALABLE IMAGES WITH AWS
+JEST
+CI
